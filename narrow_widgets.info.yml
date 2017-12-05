@@ -1,0 +1,5 @@
+name: Narrow widgets
+type: module
+description: Provides widgets with additional settings/behaviour for narrowing results and selection.
+package: field
+core: 8.x
